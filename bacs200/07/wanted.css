@@ -1,25 +1,29 @@
 * {
-    border: dashed 1px blue;
-    padding: 10px;
-    margin: 50px;
+
+    margin: 10px;
 }
 
 body {
     border: solid 3px black;
-    background-color: beige;
+    background-color: gray;
 }
 
 header {
     border: solid 3px blue;
-    backround-color: lightblue;
+    background-color: white;
 }
 
-footer {
-    border: solid 3px green;
-    background-color: lightgreen;
+
+aside {
+    border: solid 1px black;
+    background-color: lightgray;
 }
 
 main {
     border: solid 3px yellow;
     background-color: white;
+}
+
+a {
+    color: white;
 }
