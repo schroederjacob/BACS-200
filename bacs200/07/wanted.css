@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    border: solid 3px blue;
+    border: solid 3px black;
     background-color: white;
 }
 
@@ -20,7 +20,7 @@ aside {
 }
 
 main {
-    border: solid 3px yellow;
+    border: solid 3px black;
     background-color: white;
 }
 
