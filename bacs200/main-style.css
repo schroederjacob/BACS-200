@@ -3,7 +3,7 @@ body {
     background-color: black;
 }
 
-a {
+main a {
     color: red;
 }
 
@@ -15,16 +15,28 @@ header {
 }
 
 h2 {
+    border: 2px solid black;
     background-color: crimson;
     color: white;
+    padding: 0.5em;
+    margin: 0.5em;
 }
 
 section {
     background-color: white;
     padding: 1em;
+    border: 5px solid black;
 }
 
 ul {
     background-color: white;
     padding: 2em;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    color: white;
 }
