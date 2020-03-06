@@ -11,10 +11,12 @@ header {
     background-color: crimson;
     border: 5px solid black;
     padding: 0.75em;
+    color: white;
 }
 
 h2 {
     background-color: crimson;
+    color: white;
 }
 
 section {
