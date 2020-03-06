@@ -1,1 +1,28 @@
+body {
+    margin: 0;
+    background-color: black;
+}
 
+a {
+    color: red;
+}
+
+header {
+    background-color: crimson;
+    border: 5px solid black;
+    padding: 0.75em;
+}
+
+h2 {
+    background-color: crimson;
+}
+
+section {
+    background-color: white;
+    padding: 1em;
+}
+
+ul {
+    background-color: white;
+    padding: 2em;
+}
