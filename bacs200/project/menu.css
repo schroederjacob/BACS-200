@@ -8,6 +8,7 @@ nav{
 
 #menu ul li {
     display: inline;
+    padding: 1em;
 }
 #menu ul li a {
     color: black;
