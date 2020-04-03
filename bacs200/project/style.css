@@ -1,4 +1,7 @@
-nav{
+header {
+    padding: 0.5em;
+}
+nav {
     font-family: arial;
 }
 #menu ul {
@@ -8,7 +11,8 @@ nav{
 
 #menu ul li {
     display: inline;
-    padding: 1em;
+    padding-right: 1em;
+    padding-left: 0em;
 }
 #menu ul li a {
     color: black;
