@@ -1,8 +1,19 @@
 header {
+    font-famiy: arial sans-serif;
+    background-color: black;
     padding: 0.5em;
 }
+header h1 {
+    font-size: 50px;
+    color: crimson;
+    margin-bottom: 0em;
+}
+header h2 {
+    margin-top: 0em;
+    color: white;
+}
 nav {
-    font-family: arial;
+    font-family: arial sans-serif;
 }
 #menu ul {
     list-style-type: none;
@@ -18,4 +29,11 @@ nav {
     color: black;
     font-weight: bold;
     text-decoration: none;
+}
+main {
+    margin-left = 10px;
+}
+
+main ul {
+    list-style-type: none;
 }
