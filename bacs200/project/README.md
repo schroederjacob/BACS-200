@@ -1,1 +1,3 @@
+My vision for this final project is to create a satirical news site in the vein of The Onion or The Hard Times. The website will consist of a home page with a directory for articles of various different categories such as politics, entertainment, and technology. I plan to write one article each for each category. There will also be an about the author section as well.
 
+In terms of what I need to learn, I will likely continue to work with bootstrap components in order to create a more professional looking website design. Remaining steps will consist of writing the articles that will appear on the final website.
